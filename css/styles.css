@@ -1,0 +1,17 @@
+html{
+  text-align: center;
+}
+h1{
+  color:#FF3361;
+  font-family: sans-serif;
+}
+h2{
+  color: #13EEF2  ;
+  font-style: italic;
+}
+p{
+  line-height: 50px
+}
+html{
+  background-color: #87F213;
+}
